@@ -57,7 +57,7 @@ function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold text-[var(--secondary-color)]">Phone</div>
-                    <div className="text-[var(--text-secondary)]">(555) 123-4567</div>
+                    <div className="text-[var(--text-secondary)]">(+91) 12345-67890</div>
                   </div>
                 </div>
                 
@@ -77,7 +77,7 @@ function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold text-[var(--secondary-color)]">Address</div>
-                    <div className="text-[var(--text-secondary)]">123 Construction Ave<br />Builder City, BC 12345</div>
+                    <div className="text-[var(--text-secondary)]">123 Construction Ave<br />Builder City, ABC State</div>
                   </div>
                 </div>
               </div>
