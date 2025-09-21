@@ -143,7 +143,7 @@ function Contact() {
                       value={formData.phone}
                       onChange={handleInputChange}
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--primary-color)] focus:border-transparent"
-                      placeholder="(555) 123-4567"
+                      placeholder="(+91) 12345-67890"
                     />
                   </div>
                 </div>
