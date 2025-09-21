@@ -54,7 +54,7 @@ function Footer() {
               <div className="space-y-3">
                 <div className="flex items-center space-x-3 text-gray-300">
                   <div className="icon-phone text-sm"></div>
-                  <span>(555) 123-4567</span>
+                  <span>(+91) 12345-67890</span>
                 </div>
                 <div className="flex items-center space-x-3 text-gray-300">
                   <div className="icon-mail text-sm"></div>
@@ -62,7 +62,7 @@ function Footer() {
                 </div>
                 <div className="flex items-start space-x-3 text-gray-300">
                   <div className="icon-map-pin text-sm mt-1"></div>
-                  <span>123 Construction Ave<br />Builder City, BC 12345</span>
+                  <span>123 Construction Ave<br />Builder City, ABC State</span>
                 </div>
               </div>
             </div>
@@ -71,7 +71,7 @@ function Footer() {
           <div className="border-t border-gray-700 mt-12 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-300 text-sm">
-                © 2025 BuildCraft Construction. All rights reserved.
+                © 2025 BuildCraft Construction. All rights reserved. Built by Aarshiv.ai!
               </p>
               <div className="flex space-x-6 mt-4 md:mt-0">
                 <a href="#" className="text-gray-300 hover:text-white text-sm transition-colors">Privacy Policy</a>
